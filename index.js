@@ -53,7 +53,8 @@ var slogans = [
     "– Mehr Konzept. Weniger Erfolg.",
     "– More Blubble, less Code",
     "– Tische & Softeis",
-    "– all kinds of everything"
+    "– all kinds of everything",
+    "- Arbeitswut tut selten gut"
 ];
 
 module.exports = function giveMeSillySlogan(companyName) {
