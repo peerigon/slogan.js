@@ -54,7 +54,11 @@ var slogans = [
     "– More Blubble, less Code",
     "– Tische & Softeis",
     "– all kinds of everything",
-    "- Arbeitswut tut selten gut"
+    "- Arbeitswut tut selten gut",
+    "- Seien Sie anspruchsvoll",
+    " hat keinen Doppelgänger",
+    "- Teil deines Traums",
+    "flirtet gern"
 ];
 
 module.exports = function giveMeSillySlogan(companyName) {
