@@ -55,6 +55,7 @@ var slogans = [
     "– Tische & Softeis",
     "– all kinds of everything",
     "- Arbeitswut tut selten gut",
+    "– Ganz schön und anständig",
     "— Das Auto",
     "— Qualitysoftware since 1784"
 ];
