@@ -58,7 +58,9 @@ var slogans = [
     "- Seien Sie anspruchsvoll",
     " hat keinen Doppelgänger",
     "- Teil deines Traums",
-    "flirtet gern"
+    "flirtet gern",
+    "— Das Auto",
+    "— Qualitysoftware since 1784"
 ];
 
 module.exports = function giveMeSillySlogan(companyName) {
