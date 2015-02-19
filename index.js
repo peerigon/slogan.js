@@ -24,7 +24,7 @@ var slogans = [
     "– The hidden ingredient.",
     "– Das Magazin für werdende Väter.",
     "– Wir wachsen mit Licht.",
-    "– Das Ingeneurbüro im Sauerland.",
+    "– Das Ingenieursbüro im Sauerland.",
     "– Shaping the future.",
     "– Turn sweat into energy.",
     "– Macht aus Schweiß Energie.",
@@ -57,7 +57,8 @@ var slogans = [
     "- Arbeitswut tut selten gut",
     "– Ganz schön und anständig",
     "— Das Auto",
-    "— Qualitysoftware since 1784"
+    "— Qualitysoftware since 1784",
+    "- flieg und sieg!"
 ];
 
 module.exports = function giveMeSillySlogan(companyName) {
