@@ -8,6 +8,9 @@ function getRandomInt(min, max) {
 }
 
 var slogans = [
+    "– we love burgerz",
+    "– the mechandise company",
+    "– overengineering done right",
     "– Come in and find out",
     "– The beautiness company",
     "macht Kinder froh",
