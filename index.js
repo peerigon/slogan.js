@@ -62,7 +62,8 @@ var slogans = [
     "— Das Auto",
     "— Qualitysoftware since 1784",
     "- flieg und sieg!",
-    "- Go! Go! Go!"
+    "- Go! Go! Go!",
+    "- not just gently raising the bar of excellence"
 ];
 
 module.exports = function giveMeSillySlogan(companyName) {
