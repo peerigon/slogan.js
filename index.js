@@ -63,7 +63,8 @@ var slogans = [
     "— Qualitysoftware since 1784",
     "- flieg und sieg!",
     "- Go! Go! Go!",
-    "- not just gently raising the bar of excellence"
+    "- not just gently raising the bar of excellence",
+    "- Müsli aus Leidenschaft!"
 ];
 
 module.exports = function giveMeSillySlogan(companyName) {
